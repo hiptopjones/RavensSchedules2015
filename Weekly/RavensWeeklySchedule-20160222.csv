@@ -1,7 +1,7 @@
 Monday,2/22/2016,3:30 PM,4:30 PM,Gardens,OtherSkills,Accelerator,
 Monday,2/22/2016,4:45 PM,5:45 PM,Gardens,Practice,Atom C2
 Monday,2/22/2016,5:30 PM,6:45 PM,Igloo,Practice,Peewee A1
-Monday,2/22/2016,7:45 PM,9:00 PM,OvalSouth,Practice,Juvenile C1
+Monday,2/22/2016,7:45 PM,9:00 PM,OvalSouth,Game,League,RichmondGirls Juvenile C1,NorthShoreWinterClubFemale Juvenile C1,JP9006
 Tuesday,2/23/2016,6:00 AM,7:15 AM,Garage,Practice,Bantam A1
 Tuesday,2/23/2016,4:00 PM,5:30 PM,Igloo,Practice,TC1/TC2
 Tuesday,2/23/2016,5:30 PM,6:45 PM,Igloo,Practice,NC1/NC2
@@ -13,10 +13,13 @@ Wednesday,2/24/2016,5:00 PM,6:15 PM,Coliseum,TeamSkills,Development,PA1/BC1
 Wednesday,2/24/2016,6:00 PM,7:15 PM,Pond,Practice,Bantam A1
 Wednesday,2/24/2016,6:30 PM,7:45 PM,Coliseum,SpecialEvent,Conflict Ice,
 Thursday,2/25/2016,5:45 PM,7:00 PM,Pond,Practice,Peewee C2
+Thursday,2/25/2016,6:15 PM,7:30 PM,HarryJerome,Game,League,NorthShoreFemale Atom C2,RichmondGirls Atom C2,AP9405
+Thursday,2/25/2016,6:30 PM,7:45 PM,AbbotsfordMSA,Game,League,AbbotsfordFemale Midget C2,RichmondGirls Midget C2,MP9815
 Thursday,2/25/2016,6:30 PM,8:00 PM,Garage,Practice,Midget C1
+Thursday,2/25/2016,9:45 PM,11:00 PM,PocoBlue,Game,League,TriCitiesFemale Juvenile C1,RichmondGirls Juvenile C1,JP9009
 Friday,2/26/2016,6:00 AM,7:15 AM,Coliseum,Practice,Peewee A1
 Friday,2/26/2016,4:45 PM,6:00 PM,Igloo,Practice,Peewee C1
-Friday,2/26/2016,6:15 PM,7:30 PM,Igloo,Practice,Atom C1
+Friday,2/26/2016,6:15 PM,7:30 PM,Igloo,Game,League,RichmondGirls Atom C1,SurreyFemale Atom C1,AP9004
 Friday,2/26/2016,7:45 PM,9:15 PM,Igloo,Practice,Bantam C1
 Friday,2/26/2016,8:30 PM,10:00 PM,Silver,Practice,Midget A1
 Saturday,2/27/2016,7:00 AM,8:00 AM,Stadium,OtherSkills,Goalies,
@@ -24,8 +27,9 @@ Saturday,2/27/2016,7:15 AM,8:30 AM,Pond,Available
 Saturday,2/27/2016,8:15 AM,9:15 AM,Stadium,TeamSkills,Development,NC1/NC2
 Saturday,2/27/2016,9:30 AM,10:30 AM,Stadium,TeamSkills,Development,TC1/TC2
 Saturday,2/27/2016,9:30 AM,10:45 AM,Coliseum,Practice,Atom C2
+Saturday,2/27/2016,9:30 AM,10:45 AM,IceSportsNorthShoreRed,Game,League,NorthShoreFemale Atom C3,RichmondGirls Atom C3,AP9807
 Saturday,2/27/2016,11:45 AM,1:00 PM,Pond,Practice,Atom C1
-Saturday,2/27/2016,1:15 PM,2:30 PM,Pond,Practice,Peewee C2
+Saturday,2/27/2016,1:15 PM,2:30 PM,Pond,Game,League,RichmondGirls Midget C1,NorthShoreWinterClubFemale Midget C1,MP9401
 Saturday,2/27/2016,4:00 PM,5:30 PM,Igloo,Available
 Saturday,2/27/2016,5:00 PM,6:00 PM,OvalSouth,Practice,Midget C2
 Saturday,2/27/2016,5:45 PM,7:00 PM,Igloo,Practice,Atom C3
@@ -33,11 +37,12 @@ Saturday,2/27/2016,6:15 PM,7:15 PM,OvalSouth,Practice,Midget C1
 Sunday,2/28/2016,6:30 AM,7:30 AM,Igloo,Available
 Sunday,2/28/2016,8:00 AM,9:00 AM,Igloo,Game,League,RichmondGirls Tyke C1,TriCitiesFemale Tyke C1,TL9035
 Sunday,2/28/2016,8:00 AM,9:00 AM,Igloo,Game,League,RichmondGirls Tyke C2,TriCitiesFemale Tyke C2,TL9036
-Sunday,2/28/2016,8:00 AM,9:15 AM,Coliseum,Practice,Peewee C1
+Sunday,2/28/2016,8:00 AM,9:15 AM,Coliseum,Game,League,RichmondGirls Peewee C1,TriCitiesFemale Peewee C1,PP9313
 Sunday,2/28/2016,8:15 AM,9:15 AM,OvalSouth,Practice,Bantam C1
 Sunday,2/28/2016,9:15 AM,10:15 AM,Igloo,Practice,NC1/NC2
+Sunday,2/28/2016,12:45 PM,2:00 PM,IceSportsNorthShoreGreen,Game,League,NorthShoreFemale Peewee C2,RichmondGirls Peewee C2,PP9718
 Sunday,2/28/2016,1:30 PM,3:00 PM,Coliseum,Practice,Peewee A1
 Sunday,2/28/2016,3:15 PM,4:45 PM,Coliseum,Practice,Bantam A1
-Sunday,2/28/2016,4:00 PM,5:30 PM,Forum,Practice,Midget C2
+Sunday,2/28/2016,4:00 PM,5:30 PM,Forum,Game,League,RichmondGirls Midget C2,WesternWashingtonFemale Midget C1,MP9819
 Sunday,2/28/2016,5:45 PM,7:00 PM,Forum,Practice,Atom C3
 Sunday,2/28/2016,6:00 PM,7:15 PM,Silver,Practice,Midget A1
