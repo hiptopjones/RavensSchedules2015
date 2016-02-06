@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <None Include="Games\ConflictGames - Playoffs.csv" />
     <None Include="Games\Juvenile Master Schedule - 2015-09-29.csv" />
     <None Include="Games\Juvenile Master Schedule Rev 2 - 2015-10-01.csv" />
     <None Include="Games\Master Schedule - 2015-09-25.csv" />
